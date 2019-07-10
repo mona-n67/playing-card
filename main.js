@@ -28,3 +28,4 @@ function deal(){
     output.innerHTML += '<h4>player 02 cards are:</h4>'+cards[4] + cards[5] + cards[6] + cards[7];
     cards =[];
 }
+//End
